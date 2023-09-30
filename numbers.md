@@ -9,3 +9,13 @@
 8. entu
 9. ombathu
 10. hathu
+11. hanondu
+12. haneradu
+13. hadimooru
+14. hadinalku
+15. hadinaidu
+16. hadinaaru
+17. hadinelu
+18. hadinentu
+19. hatombathu
+20. eppathu
