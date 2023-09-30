@@ -1,0 +1,11 @@
+# Numbers(1-10)
+1. ondu
+2. eradu
+3. mooru
+4. nalakku
+5. aidu
+6. aaru
+7. yelu
+8. entu
+9. ombathu
+10. hathu
