@@ -1,0 +1,23 @@
+# Questions
+
+- yenu (What)
+    - **What is your name?** (ninna hesaru yenu?)
+        - *My name is Anbu* (Nanna hesaru Anbu!)
+    - **What are you doing?** (yenu madta-idhiya?)
+        - *I am learning Kannada* (Naanu Kannada kalita-idini.)
+- yenakke (what for)
+    - **what for are you learning Kannada?** (yenakke Kannada kalitha-idhiya)
+        - *To explore places in Karnataka.* (Karnataka-vannu nodalu)
+- yavaga (when)
+    - **When will your MBA program start?** (MBA program yavaga start aaguthe?)
+        - *Don't know!* (gothilla)
+- yelli - where
+- yavadu - which
+- yaaru - who
+- yarige - whom
+- yaradu - whose
+- yaake - why
+- hege - how
+- yestu hottu - how long
+- yestu - how much
+- yellaru - everyone / everybody
