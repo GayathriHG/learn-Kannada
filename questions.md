@@ -11,7 +11,8 @@
 - yavaga (when)
     - **When will your MBA program start?** (MBA program yavaga start aaguthe?)
         - *Don't know!* (gothilla)
-- yelli - where
+- yelli (where)
+    - **where are you going ?** (yelli-ge hogtidiya?)
 - yavadu - which
 - yaaru - who
 - yarige - whom
@@ -20,4 +21,4 @@
 - hege - how
 - yestu hottu - how long
 - yestu - how much
-- yellaru - everyone / everybody
+- yellaru - everyone / everybody 
