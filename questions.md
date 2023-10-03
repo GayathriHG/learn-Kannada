@@ -13,10 +13,17 @@
         - *Don't know!* (gothilla)
 - yelli (where)
     - **where are you going ?** (yelli-ge hogtidiya?)
-- yavadu - which
-- yaaru - who
-- yarige - whom
-- yaradu - whose
+- yavadu (which)
+    - **which place are you from ?** (nimma ooru yavadu?)
+    - **which is more important ?** (yavadu jasthi important idhe?) 
+- yaaru (who)
+    - **who are you** (yaaru neenu)
+    - **Ramya krishna yaarna madwe aadlu ?** (who did ramya krishna marry?)
+- yarige (whom)
+    - **ice cream yarige beku?** (who wants ice cream)    
+- yaradu (whose)
+    - **ee pen yardu ?** (whose pen is this?)
+    - ****
 - yaake - why
 - hege - how
 - yestu hottu - how long
