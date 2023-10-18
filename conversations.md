@@ -21,5 +21,15 @@
 - **A: Anna 2 meals kodi**
 - **W: sir nimma meals**
 
+- **A: oota heg idhe?**
+- **B: tasty agi idhe,chanagi idhe**
+- **A: nimma favorite food yenu?**
+- **B: Biryani,nimma favorite food yenu?**
+- **A: nangu nu Biryani ne favorite**
+- **A: Anna bill kodi??**
+- **A: online tagon-tira?**
+- **O: ha tagoli sir scanner**
+
+
 
 

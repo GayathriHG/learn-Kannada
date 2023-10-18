@@ -23,7 +23,7 @@
     - **ice cream yarige beku?** (who wants ice cream)    
 - yaradu (whose)
     - **ee pen yardu ?** (whose pen is this?)
-    - ****
+    - **** 
 - yaake - why
 - hege - how
 - yestu hottu - how long
