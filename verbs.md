@@ -33,3 +33,14 @@
     - **Avala hesaru keldhe** (i asked her name)
     - **Avala hesaru keltha-idini** (i'm asking)
     - **Avala hesaru keltini** (i'll ask her name)
+
+How to ask questions in Verbs
+
+| Verbs        | Past         | Present-Contineous | Future |
+| ------------ | ------------ | ------------------ | ------ |
+| Madu Madidna | Madtha idina | madtina            |
+
+we usually do not use questioning verbs for self , it is always asked for others
+
+| Verbs | Past | Present-Contineous | Future |
+| ----- | ---- | ------------------ | ------ |
